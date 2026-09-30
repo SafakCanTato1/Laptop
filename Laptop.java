@@ -17,7 +17,7 @@ public class Laptop
         setHersteller(neuHersteller);
         setKosten(1000);
         setNeu(neuNeu);
-    }
+    }  
 
     public String getHersteller()
     {
